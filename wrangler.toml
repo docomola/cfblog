@@ -1,0 +1,14 @@
+name = "cfblog"
+compatibility_date = "2025-05-22"
+compatibility_flags = ["nodejs_compat"]
+
+# Cloudflare Pages configuration
+pages_build_output_dir = "dist"
+
+[vars]
+# Add environment variables here
+# PUBLIC_GOOGLE_ANALYTICS_ID = ""
+# PUBLIC_UMAMI_WEBSITE_ID = ""
+# PUBLIC_DISQUS_SHORTNAME = ""
+# BREVO_API_KEY = ""
+# BREVO_LIST_ID = ""
